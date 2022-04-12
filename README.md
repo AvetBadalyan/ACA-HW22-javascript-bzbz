@@ -57,6 +57,14 @@ removeDuplicate([
 
 [06.removeDuplicates.js](06.removeDuplicates.js)
 
+## 7. Write a JavaScript function that checks if the given string includes the given substring.
+
+Write a JavaScript function that checks if the given string includes the given substring.
+EX: str = “Hello” substr = “ell” => returned value is true
+EX: str = “Kill” substr = “lolo” => returned value is false
+
+[07.includesOrNot.js](07.includesOrNot.js)
+
 ## 11. Write a JS function, which will work as a calculator.
 
 Write a JS function, which will work as a calculator.
