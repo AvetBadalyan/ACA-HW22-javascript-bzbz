@@ -65,6 +65,13 @@ EX: str = “Kill” substr = “lolo” => returned value is false
 
 [07.includesOrNot.js](07.includesOrNot.js)
 
+## 8. Write a JavaScript function that accepts a string as a parameter and converts the first letter of each word of the string in the upper case.
+
+Write a JavaScript function that accepts a string as a parameter and converts the first letter of each word of the string in the upper case. <br>
+EX: ‘i love you’ => ‘I Love You’, (use str.split function)
+
+[08.capitalizeString.js](08.capitalizeString.js)
+
 ## 11. Write a JS function, which will work as a calculator.
 
 Write a JS function, which will work as a calculator.
