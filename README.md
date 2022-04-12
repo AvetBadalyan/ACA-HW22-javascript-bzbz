@@ -22,11 +22,11 @@ Create a function that will return all the most repeated element.
 ## 11. Write a JS function, which will work as a calculator.
 
 Write a JS function, which will work as a calculator.
-It will accept 3 arguments, first number, second number and the sign
-EX:
-calc(1, 2, ‘+’) =>3
-calc(1, 2, ‘-’) =>-1
-calc(1, 2, ‘\*’) =>2
-calc(1, 2, ‘/’) =>½
+It will accept 3 arguments, first number, second number and the sign <br>
+EX: <br>
+calc(1, 2, ‘+’) =>3 <br>
+calc(1, 2, ‘-’) =>-1 <br>
+calc(1, 2, ‘\*’) =>2 <br>
+calc(1, 2, ‘/’) =>½ <br>
 
 [11.operations.js](11.operations.js)
