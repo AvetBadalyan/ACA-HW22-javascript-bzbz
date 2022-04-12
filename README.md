@@ -72,6 +72,14 @@ EX: ‘i love you’ => ‘I Love You’, (use str.split function)
 
 [08.capitalizeString.js](08.capitalizeString.js)
 
+## 9. Write a JavaScript function that accepts a string as a parameter and find the longest word within the string.
+
+Write a JavaScript function that accepts a string as a parameter and find the longest word within the string.
+Example string : 'Web Development Tutorial'
+Expected Output : 'Development'
+
+[09.longestWordinString.js](09.longestWordinString.js)
+
 ## 11. Write a JS function, which will work as a calculator.
 
 Write a JS function, which will work as a calculator.
