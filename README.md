@@ -40,6 +40,23 @@ Print all the values with recursion.
 
 [04.recursion.js](04.recursion.js)
 
+## 6. Write a function which will remove all repeated items of array.
+
+removeDuplicate([
+"Avet",
+"Rafo",
+"Martun",
+"Avet",
+"Elmira",
+"Tigran",
+"Elmira",
+"Elmira",
+]) becomes <br>
+
+[ 'Avet', 'Rafo', 'Martun', 'Elmira', 'Tigran' ]
+
+[06.removeDuplicates.js](06.removeDuplicates.js)
+
 ## 11. Write a JS function, which will work as a calculator.
 
 Write a JS function, which will work as a calculator.
