@@ -80,7 +80,7 @@ Expected Output : 'Development'
 
 [09.longestWordinString.js](09.longestWordinString.js)
 
-## 11. Write a JS function, which will work as a calculator.
+## 10. Write a JS function, which will work as a calculator.
 
 Write a JS function, which will work as a calculator.
 It will accept 3 arguments, first number, second number and the sign <br>
@@ -90,4 +90,4 @@ calc(1, 2, ‘-’) =>-1 <br>
 calc(1, 2, ‘\*’) =>2 <br>
 calc(1, 2, ‘/’) =>½ <br>
 
-[11.operations.js](11.operations.js)
+[10.operations.js](10.operations.js)
