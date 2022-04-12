@@ -19,6 +19,27 @@ Create a function that will return all the most repeated element.
 
 [03.findTheMostFrequentItem.js](03.findTheMostFrequentItem.js)
 
+## 4. Print all the values of linked object with recursion.
+
+Let’s say we have an object with linked props (i.e
+let list = {
+value: 1,
+next: {
+value: 2,
+next: {
+value: 3,
+next: {
+value: 4,
+next: null
+}
+}
+}
+};
+); <br>
+Print all the values with recursion.
+
+[04.recursion.js](04.recursion.js)
+
 ## 11. Write a JS function, which will work as a calculator.
 
 Write a JS function, which will work as a calculator.
