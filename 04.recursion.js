@@ -5,7 +5,7 @@ Print all the values with recursion.
 function printNestedValues(object) {
   console.log(object.value);
   if (object.next) {
-    printNestedValues(object.next);
+    return printNestedValues(object.next);
   }
 }
 
